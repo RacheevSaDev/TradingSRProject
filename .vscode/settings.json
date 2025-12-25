@@ -1,0 +1,31 @@
+{
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**",
+        "${workspaceFolder}/Include",
+        "c:\\Users\\racheev\\AppData\\Roaming\\MetaQuotes\\Terminal\\E6CD6CE17FF3D434B1380AC3DE3A34D5\\MQL5\\Include\\Include"
+    ],
+    "C_Cpp.default.compilerPath": "",
+    "C_Cpp.default.intelliSenseMode": "gcc-x64",
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.autocompleteAddParentheses": true,
+    "files.exclude": {
+        "**/*.ex4": true,
+        "**/*.ex5": true,
+        "**/*_@!!@.mq4": true,
+        "**/*_@!!@.mq5": true,
+        "**/*_@!!@.mqh": true,
+        "**/*_@!!@.log": true
+    },
+    "files.associations": {
+        "*.mqh": "cpp",
+        "*.mq4": "cpp",
+        "*.mq5": "cpp"
+    },
+    "editor.tabSize": 3,
+    "C_Cpp.default.forcedInclude": [
+        "c:\\Users\\racheev\\.vscode\\extensions\\l-i-v.mql-tools-2.2.0\\data\\mql5_en.mqh"
+    ],
+    "mql_tools.CopyFiles": false,
+    "mql_tools.Metaeditor.Include5Dir": "C:\\Users\\racheev\\AppData\\Roaming\\MetaQuotes\\Terminal\\E6CD6CE17FF3D434B1380AC3DE3A34D5\\MQL5\\",
+    "C_Cpp.clang_format_style": "{ BasedOnStyle: Google, UseTab: Never, ColumnLimit: 0, IndentWidth: 3, TabWidth: 3 }"
+}
