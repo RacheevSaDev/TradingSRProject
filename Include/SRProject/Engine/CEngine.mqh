@@ -8,8 +8,7 @@
 #property link      ""
 #property version   "1.00"
 
-
-class CEngine
+class CEngine : public CModule
    {
 private:
 
